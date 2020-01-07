@@ -8,6 +8,7 @@ namespace OlaMundo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como está seu dia?");
 
         }
     }
